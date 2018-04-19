@@ -29,6 +29,7 @@ namespace randome
 
                 a = a + 1;
             }
+
             // 讓畫面停止
             Console.ReadLine() ;
         }
